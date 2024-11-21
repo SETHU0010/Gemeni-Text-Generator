@@ -5,7 +5,7 @@ import google.generativeai as genai
 
 
 # Authenticate with the Gemini API
-genai.configure(api_key="AIzaSyDGPimJMUAb9_-7tbuNOwji18b0w2CfX-o")
+genai.configure(api_key="AIzaSyAeGWf1G1CiRYVcUUYYaCE4CTOcigjoRhA")
 
 def get_text_response(prompt):
     """Generate a text response using the Gemini API."""
